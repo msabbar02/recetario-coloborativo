@@ -36,5 +36,26 @@
 - Si se desea, decorar con chocolate en polvo, azúcar glas, almendras, avellanas, pistachos o nueces pecanas.
 - Servir y disfrutar.
 ## Recetas Saladas
+### ingredientes de la receta de ensalada César (mohamed sabbar):
+- 1 lechuga romana
+- 1 pechuga de pollo
+- 1/2 taza de queso parmesano
+- 1/2 taza de crutones
+- 1/4 de taza de aderezo César
+- 1/4 de taza de aceite de oliva
+- 1/4 de taza de jugo de limón
+- 1/4 de cucharadita de pimienta negra
+- 1/4 de cucharadita de sal
+- 1/4 de cucharadita de ajo en polvo
+- 1/4 de cucharadita de cebolla en polvo
+- 1/4 de cucharadita de mostaza
+- 1/4 de cucharadita de salsa Worcestershire
+- 1/4 de cucharadita de salsa Tabasco
+- 1/4 de cucharadita de salsa de soya
+- 1/4 de cucharadita de salsa de tomate
+- 1/4 de cucharadita de salsa de chile
+- 1/4 de cucharadita de salsa de ajo
+- 1/4 de cucharadita de salsa de cebolla
+- 1/4 de cucharadita de salsa de mostaza
 
 ## Receta Inventada (Postre colaborativo)
