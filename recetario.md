@@ -57,8 +57,11 @@
 - 1/4 de cucharadita de salsa de ajo
 - 1/4 de cucharadita de salsa de cebolla
 - 1/4 de cucharadita de salsa de mostaza
-<<<<<<< HEAD
-=======
-
->>>>>>> origin/main
+### los pasos de la receta de ensalada César (mohamed sabbar):
+- Lavar y secar la lechuga romana.
+- Cocinar la pechuga de pollo a la parrilla o al horno y cortarla en tiras.
+- En un tazón grande, mezclar la lechuga, el pollo, el queso parmesano y los crutones.
+- En un tazón pequeño, mezclar el aderezo César, el aceite de oliva, el jugo de limón, la pimienta negra, la sal, el ajo en polvo, la cebolla en polvo, la mostaza, la salsa Worcestershire, la salsa Tabasco, la salsa de soya, la salsa de tomate, la salsa de chile, la salsa de ajo y la salsa de cebolla.
+- Verter la mezcla de aderezo sobre la ensalada y mezclar bien.
+- Servir y disfrutar.
 ## Receta Inventada (Postre colaborativo)
