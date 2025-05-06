@@ -57,4 +57,8 @@
 - 1/4 de cucharadita de salsa de ajo
 - 1/4 de cucharadita de salsa de cebolla
 - 1/4 de cucharadita de salsa de mostaza
+<<<<<<< HEAD
+=======
+
+>>>>>>> origin/main
 ## Receta Inventada (Postre colaborativo)
