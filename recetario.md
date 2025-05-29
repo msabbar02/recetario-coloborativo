@@ -35,6 +35,27 @@
 - Dejar enfriar antes de desmoldar.
 - Si se desea, decorar con chocolate en polvo, azúcar glas, almendras, avellanas, pistachos o nueces pecanas.
 - Servir y disfrutar.
+
+### Título receta dulce: Tarta Chocoflan (Grace Pilacuan)
+### Ingredientes :
+
+-100 g. de azúcar (caramelo líquido)
+-5-6 cucharadas de agua (caramelo líquido)
+-1 huevo (bizcocho)
+-100 g. de azúcar (bizcocho)
+-125 g. de leche entera (bizcocho)
+-60 g. de aceite de oliva (bizcocho)
+-1 cucharadita de esencia de vainilla (opcional) (bizcocho)
+-125 g. de harina de trigo (bizcocho)
+-10 g. de levadura química (bizcocho)
+-50 g. de cacao puro en polvo (bizcocho)
+-5 huevos M (flan)
+-100 g. de azúcar (flan)
+-500 ml. de leche entera (flan)
+-1 cucharadita de esencia de vainilla (opcional) (flan)
+
+
+
 ## Recetas Saladas
 ### ingredientes de la receta de ensalada César (mohamed sabbar):
 - 1 lechuga romana
