@@ -54,7 +54,20 @@
 -500 ml. de leche entera (flan)
 -1 cucharadita de esencia de vainilla (opcional) (flan)
 
-
+### Pasos Chocoflan: 
+1. En un bol amplio batimos el huevo con el azúcar hasta blanquear, es decir, hasta que se torne pálido y esté esponjoso.
+2. Después agregamos la leche, el aceite y la esencia de vainilla (opcional). Removemos suavemente para integrar.
+3. Incorporamos la harina de trigo, la levadura química y el cacao puro en polvo. Todo ello a través de un colador o tamiz para que quede suelto y aireado.
+4. Removemos suavemente con una lengua o espátula, con movimientos envolventes de abajo hacia arriba, procurando no perder el aire incorporado con el batido anterior.
+5. Cuando tengamos una masa homogénea la volcamos en el interior del molde, sobre la capa de caramelo, y la extendemos bien por toda la superficie.
+6. En otro bol amplio introducimos los huevos, el azúcar y la leche. Sí queremos, también podemos añadir un poco de esencia de vainilla, pero esto -igual que con la capa de bizcocho- es opcional.
+7. Removemos para integrar bien los ingredientes, pero sin batir porque hay que evitar meter aire en la mezcla. Lo más importante en este momento es conseguir que el azúcar se disuelva y quede bien integrado, así que simplemente mezclamos durante varios minutos.
+8. Después pasamos la mezcla al molde, dejándola caer suavemente sobre la capa de bizcocho. Usamos un colador y con ello nos aseguramos que la capa de flan quede bien fina.
+9. Ahora solo queda introducir el molde en una fuente para horno que llenamos de agua hasta la mitad.
+10. Nos la llevamos al horno, precalentado a 160ºC con calor arriba y abajo, y cocemos la tarta flan durante 55-60 minutos.
+11. Transcurrido este tiempo veremos que las capas se han intercambiado y que el bizcocho ha subido a la superficie. Es el momento de sacar el molde del horno y dejar que se atempere antes de llevarlo a la nevera. Dejamos que coja cuerpo y se enfríe en condiciones durante al menos dos horas, mejor sí es toda la noche.
+12. Cuando queramos servir la tarta flan solo tendremos que desmoldarla en una fuente ligeramente honda que pueda recoger el caramelo que la cubre. Es importante hacerlo con cuidado para que no se rompa.
+Y ya tenemos la tarta flan, chocotorta o tarta mágica de chocolate y flan lista para servir. ¡Que aproveche!
 
 ## Recetas Saladas
 ### ingredientes de la receta de ensalada César (mohamed sabbar):
