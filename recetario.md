@@ -113,4 +113,17 @@ Y ya tenemos la tarta flan, chocotorta o tarta mágica de chocolate y flan lista
 5. Espolvorear la mozzarella rallada y repartir las rodajas de pepperoni.
 6. Hornear unos 15-18 minutos, sobre una rejilla, hasta que esté dorada.
 
-## Receta Inventada (Postre colaborativo)
+## Receta Inventada (Postre colaborativo) 
+### Panqueque de Frambuesas (Grace Pilacuan)
+
+###Ingredientes
+- 200g de frambuesas
+- 2 huevos
+- 100g de azúcar
+- 50g de harina
+
+###Pasos
+1. Batir los huevos con el azúcar.
+2. Añadir las frambuesas trituradas.
+3. Incorporar la harina.
+4. Hornear 15 minutos a 200°C.
