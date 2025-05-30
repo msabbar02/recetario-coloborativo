@@ -64,4 +64,17 @@
 - En un tazón pequeño, mezclar el aderezo César, el aceite de oliva, el jugo de limón, la pimienta negra, la sal, el ajo en polvo, la cebolla en polvo, la mostaza, la salsa Worcestershire, la salsa Tabasco, la salsa de soya, la salsa de tomate, la salsa de chile, la salsa de ajo y la salsa de cebolla.
 - Verter la mezcla de aderezo sobre la ensalada y mezclar bien.
 - Servir y disfrutar.
+
 ## Receta Inventada (Postre colaborativo)
+### Postre Solar (Alia)
+
+###Ingredientes
+- 1 mango
+- 1 plátano
+- 100ml de nata
+- 2 cucharadas de miel
+
+###Pasos
+1. Batir todas las frutas.
+2. Añadir la nata y la miel.
+3. Enfriar en la nevera por 2 horas.
