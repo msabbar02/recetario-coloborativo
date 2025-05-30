@@ -53,6 +53,7 @@ Este conflicto fue resuelto utilizando la herramienta **Merge Editor** de Visual
 - 1/2 taza de avellanas (opcional)
 - 1/2 taza de pistachos (opcional)
 - 1/2 taza de nueces pecanas (opcional).
+
 ### los pasos de la receta de tarta de chocolate (Moha):
 - Precalentar el horno a 180 grados Celsius.
 - Derretir el chocolate y la mantequilla en un recipiente a fuego lento.
@@ -70,7 +71,7 @@ Este conflicto fue resuelto utilizando la herramienta **Merge Editor** de Visual
 ### Título receta dulce: Tarta Chocoflan (Grace Pilacuan)
 ### Ingredientes :
 
--100 g. de azúcar (caramelo líquido)
+-200 g. de azúcar (caramelo líquido)
 -5-6 cucharadas de agua (caramelo líquido)
 -1 huevo (bizcocho)
 -100 g. de azúcar (bizcocho)
@@ -98,7 +99,7 @@ Este conflicto fue resuelto utilizando la herramienta **Merge Editor** de Visual
 10. Nos la llevamos al horno, precalentado a 160ºC con calor arriba y abajo, y cocemos la tarta flan durante 55-60 minutos.
 11. Transcurrido este tiempo veremos que las capas se han intercambiado y que el bizcocho ha subido a la superficie. Es el momento de sacar el molde del horno y dejar que se atempere antes de llevarlo a la nevera. Dejamos que coja cuerpo y se enfríe en condiciones durante al menos dos horas, mejor sí es toda la noche.
 12. Cuando queramos servir la tarta flan solo tendremos que desmoldarla en una fuente ligeramente honda que pueda recoger el caramelo que la cubre. Es importante hacerlo con cuidado para que no se rompa.
-Y ya tenemos la tarta flan, chocotorta o tarta mágica de chocolate y flan lista para servir. ¡Que aproveche!
+Y ya tenemos la tarta flan, chocotorta o tarta mágica de chocolate y flan lista para servir. Que aproveche!
 
 ## Recetas Saladas
 ### ingredientes de la receta de ensalada César (mohamed sabbar):
@@ -143,4 +144,4 @@ Y ya tenemos la tarta flan, chocotorta o tarta mágica de chocolate y flan lista
 4. Repartir la salsa de tomate en el centro con la ayuda del dorso de una cuchara.
 5. Espolvorear la mozzarella rallada y repartir las rodajas de pepperoni.
 6. Hornear unos 15-18 minutos, sobre una rejilla, hasta que esté dorada.
-
+7. Sacar del horno y disfrutar!
