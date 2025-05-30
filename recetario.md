@@ -35,6 +35,40 @@
 - Dejar enfriar antes de desmoldar.
 - Si se desea, decorar con chocolate en polvo, azúcar glas, almendras, avellanas, pistachos o nueces pecanas.
 - Servir y disfrutar.
+
+### Título receta dulce: Tarta Chocoflan (Grace Pilacuan)
+### Ingredientes :
+
+-100 g. de azúcar (caramelo líquido)
+-5-6 cucharadas de agua (caramelo líquido)
+-1 huevo (bizcocho)
+-100 g. de azúcar (bizcocho)
+-125 g. de leche entera (bizcocho)
+-60 g. de aceite de oliva (bizcocho)
+-1 cucharadita de esencia de vainilla (opcional) (bizcocho)
+-125 g. de harina de trigo (bizcocho)
+-10 g. de levadura química (bizcocho)
+-50 g. de cacao puro en polvo (bizcocho)
+-5 huevos M (flan)
+-100 g. de azúcar (flan)
+-500 ml. de leche entera (flan)
+-1 cucharadita de esencia de vainilla (opcional) (flan)
+
+### Pasos Chocoflan: 
+1. En un bol amplio batimos el huevo con el azúcar hasta blanquear, es decir, hasta que se torne pálido y esté esponjoso.
+2. Después agregamos la leche, el aceite y la esencia de vainilla (opcional). Removemos suavemente para integrar.
+3. Incorporamos la harina de trigo, la levadura química y el cacao puro en polvo. Todo ello a través de un colador o tamiz para que quede suelto y aireado.
+4. Removemos suavemente con una lengua o espátula, con movimientos envolventes de abajo hacia arriba, procurando no perder el aire incorporado con el batido anterior.
+5. Cuando tengamos una masa homogénea la volcamos en el interior del molde, sobre la capa de caramelo, y la extendemos bien por toda la superficie.
+6. En otro bol amplio introducimos los huevos, el azúcar y la leche. Sí queremos, también podemos añadir un poco de esencia de vainilla, pero esto -igual que con la capa de bizcocho- es opcional.
+7. Removemos para integrar bien los ingredientes, pero sin batir porque hay que evitar meter aire en la mezcla. Lo más importante en este momento es conseguir que el azúcar se disuelva y quede bien integrado, así que simplemente mezclamos durante varios minutos.
+8. Después pasamos la mezcla al molde, dejándola caer suavemente sobre la capa de bizcocho. Usamos un colador y con ello nos aseguramos que la capa de flan quede bien fina.
+9. Ahora solo queda introducir el molde en una fuente para horno que llenamos de agua hasta la mitad.
+10. Nos la llevamos al horno, precalentado a 160ºC con calor arriba y abajo, y cocemos la tarta flan durante 55-60 minutos.
+11. Transcurrido este tiempo veremos que las capas se han intercambiado y que el bizcocho ha subido a la superficie. Es el momento de sacar el molde del horno y dejar que se atempere antes de llevarlo a la nevera. Dejamos que coja cuerpo y se enfríe en condiciones durante al menos dos horas, mejor sí es toda la noche.
+12. Cuando queramos servir la tarta flan solo tendremos que desmoldarla en una fuente ligeramente honda que pueda recoger el caramelo que la cubre. Es importante hacerlo con cuidado para que no se rompa.
+Y ya tenemos la tarta flan, chocotorta o tarta mágica de chocolate y flan lista para servir. ¡Que aproveche!
+
 ## Recetas Saladas
 ### ingredientes de la receta de ensalada César (mohamed sabbar):
 - 1 lechuga romana
@@ -64,21 +98,4 @@
 - En un tazón pequeño, mezclar el aderezo César, el aceite de oliva, el jugo de limón, la pimienta negra, la sal, el ajo en polvo, la cebolla en polvo, la mostaza, la salsa Worcestershire, la salsa Tabasco, la salsa de soya, la salsa de tomate, la salsa de chile, la salsa de ajo y la salsa de cebolla.
 - Verter la mezcla de aderezo sobre la ensalada y mezclar bien.
 - Servir y disfrutar.
-
 ## Receta Inventada (Postre colaborativo)
-### Postre Solar (Alia)
-
-###Ingredientes
-- 1 mango
-- 1 plátano
-- 100ml de nata
-- 2 cucharadas de miel
-- harina
-- frambuesas
-- chocolate
-
-###Pasos
-1. Batir todas las frutas.
-2. Añadir la nata, harina y la miel.
-3. Enfriar en la nevera por 2 horas.
-- Añadir el chocolate
