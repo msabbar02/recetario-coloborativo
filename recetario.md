@@ -98,4 +98,32 @@ Y ya tenemos la tarta flan, chocotorta o tarta mágica de chocolate y flan lista
 - En un tazón pequeño, mezclar el aderezo César, el aceite de oliva, el jugo de limón, la pimienta negra, la sal, el ajo en polvo, la cebolla en polvo, la mostaza, la salsa Worcestershire, la salsa Tabasco, la salsa de soya, la salsa de tomate, la salsa de chile, la salsa de ajo y la salsa de cebolla.
 - Verter la mezcla de aderezo sobre la ensalada y mezclar bien.
 - Servir y disfrutar.
-## Receta Inventada (Postre colaborativo)
+
+### Ingredientes de Pizza peperoni(Grace Pilacuan)
+-1 Masa de pizza Tradizionale 
+-70 g de Tomate frito estilo casero 
+-100 g de mozzarella rallada
+-1 bola de mozzarella fresca (cortada en bastones)45 g de pepperoni
+
+### Pasos de pizza peperoni (Grace Pilacuan)
+1. Precalentar el horno a 220ºC.
+2. Extender la masa de pizza sobre el papel que la envuelve.
+3. Colocar la mozzarella en bastones por todo el borde y recubrir con la misma masa, presionando bien al cerrar.
+4. Repartir la salsa de tomate en el centro con la ayuda del dorso de una cuchara.
+5. Espolvorear la mozzarella rallada y repartir las rodajas de pepperoni.
+6. Hornear unos 15-18 minutos, sobre una rejilla, hasta que esté dorada.
+
+## Receta Inventada (Postre colaborativo) 
+### Panqueque de Frambuesas (Grace Pilacuan)
+
+###Ingredientes
+- 200g de frambuesas
+- 2 huevos
+- 100g de azúcar
+- 50g de harina
+
+###Pasos
+1. Batir los huevos con el azúcar.
+2. Añadir las frambuesas trituradas.
+3. Incorporar la harina.
+4. Hornear 15 minutos a 200°C.
