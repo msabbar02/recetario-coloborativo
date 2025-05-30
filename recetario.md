@@ -73,8 +73,12 @@
 - 1 plátano
 - 100ml de nata
 - 2 cucharadas de miel
+- harina
+- frambuesas
+- chocolate
 
 ###Pasos
 1. Batir todas las frutas.
-2. Añadir la nata y la miel.
+2. Añadir la nata, harina y la miel.
 3. Enfriar en la nevera por 2 horas.
+- Añadir el chocolate
